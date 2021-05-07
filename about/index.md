@@ -1,17 +1,22 @@
 ---
-title: About
-layout: page
+title: Chuyện về cuối tuần
 current: about
 navigation: true
 logo: assets/images/ghost.png
 class: page-template
 subclass: post page
+cover: https://i.vgy.me/bG9FhB.png
+layout: page
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Tại sao lại là cuối tuần ? Vì đó là những ngày cảm xúc nhất trong 1 tuần, bắt đầu từ thứ sáu (aka fridei) cho tới hết chủ nhật (aka sundei).
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Thứ sáu đánh dấu kết thúc 1 tuần cãi sếp, mắng khách hàng mệt mỏi và mong chờ những ngày nghỉ sắp đến. Nói chung là vui đỉnh của chóp :D
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Còn chủ nhật, thê thảm hơn :(, vì chủ nhật là ngày nghỉ cuối cùng trong tuần, lại chuẩn bị 1 tuần mới nhiều sự kiện.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Và thế là nhungngaycuoituan ra đời, để kể cho mọi người những câu chuyện cuối tuần, lưu lại những cảm xúc trái ngược từ fridei tới sundei. 
+
+> Take the time to do what you love to do this weekend.
+
+![weekend quotes images](https://imgk.timesnownews.com/story/Weekend_iStock_1200.jpg?tr=w-600,h-450,fo-auto)
