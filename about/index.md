@@ -1,5 +1,5 @@
 ---
-title: Chuyện về cuối tuần
+title: Chuyện của cuối tuần
 current: about
 navigation: true
 logo: assets/images/ghost.png
