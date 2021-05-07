@@ -11,7 +11,7 @@ layout: page
 
 Tại sao lại là cuối tuần ? Vì đó là những ngày cảm xúc nhất trong 1 tuần, bắt đầu từ thứ sáu (aka fridei) cho tới hết chủ nhật (aka sundei).
 
-Thứ sáu đánh dấu kết thúc 1 tuần cãi sếp, mắng khách hàng mệt mỏi và mong chờ những ngày nghỉ sắp đến. Nói chung là vui đỉnh của chóp :D
+Thứ sáu đánh dấu kết thúc 1 tuần cãi sếp, mắng khách hàng mệt mỏi và mong chờ những ngày nghỉ sắp đến. Nói chung là vui đỉnh của chóp &#128525;
 
 Thứ bẩy trôi qua yên bình..........
 
