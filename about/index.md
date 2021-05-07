@@ -13,11 +13,11 @@ Tại sao lại là cuối tuần ? Vì đó là những ngày cảm xúc nhất
 
 Thứ sáu đánh dấu kết thúc 1 tuần cãi sếp, mắng khách hàng mệt mỏi và mong chờ những ngày nghỉ sắp đến. Nói chung là vui đỉnh của chóp :D
 
-Thứ bẩy yên bình trôi qua.........................................
+Thứ bẩy trôi qua yên bình..........
 
-Còn chủ nhật, thê thảm hơn :(, vì chủ nhật là ngày nghỉ cuối cùng trong tuần, lại chuẩn bị 1 tuần mới nhiều sự kiện.
+Còn chủ nhật, thê thảm :(. Chủ nhật là ngày nghỉ cuối cùng trong tuần, lại chuẩn bị 1 tuần mới nhiều mệt mỏi.
 
-Và nhungngaycuoituan ra đời, để kể cho mọi người những câu chuyện cuối tuần, lưu lại những cảm xúc trái ngược từ fridei tới sundei.
+Và đó, cảm xúc là lý do nhungngaycuoituan ra đời, để kể cho mọi người những câu chuyện cuối tuần, để lưu lại những cảm xúc trái ngược từ fridei tới sundei :).
 
 > Take the time to do what you love to do this weekend.
 
