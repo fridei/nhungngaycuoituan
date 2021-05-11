@@ -19,6 +19,6 @@ Còn chủ nhật, thê thảm 😭. Chủ nhật là ngày nghỉ cuối cùng 
 
 Và đó, cảm xúc là lý do nhungngaycuoituan ra đời, để kể cho mọi người những câu chuyện cuối tuần, để lưu lại những cảm xúc trái ngược từ fridei tới sundei 😎.
 
-> Take the time to do what you love to do this weekend.
+> Take the time to do what you love this weekend.
 
 ![weekend quotes images](https://imgk.timesnownews.com/story/Weekend_iStock_1200.jpg?tr=w-600,h-450,fo-auto)
