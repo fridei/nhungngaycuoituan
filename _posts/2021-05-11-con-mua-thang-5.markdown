@@ -2,7 +2,7 @@
 title: Cơn mưa tháng 5
 date: 2021-05-11 18:05:00 Z
 Current: post
-cover: https://s7d2.scene7.com/is/image/TWCNews/ca_la_rain_gettyimages-94913098jpg
+cover: https://i.vgy.me/KWsh2t.jpg
 navigation: true
 class: post-template
 subclass: post
