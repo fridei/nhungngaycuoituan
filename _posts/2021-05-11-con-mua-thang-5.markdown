@@ -30,7 +30,7 @@ Mình đọc ở đâu đó, tình yêu không phải là 1\+1=2 mà là 0.5 \+ 
 
 Tụi mình có chung một bài hát của Bức Tường: “Cơn mưa tháng 5” mà anh đăng trên Zalo, còn mình đăng trên Tumblr khi cả hai đều chưa quen nhau, một điểm chung nữa ngoài chạy bộ.
 
-[Cơn Mưa Tháng 5 | Trần Lập - Bức Tường | Original Mp3 - YouTube](https://www.youtube.com/watch?v=tAKop-p210s)
+[![](http://img.youtube.com/vi/tAKop-p210s/0.jpg)](http://www.youtube.com/watch?v=tAKop-p210s "Cơn mưa tháng 5")
 
 Tạm viết đến đây để chuẩn bị đi ngủ cho ngày mới thôi.
 
