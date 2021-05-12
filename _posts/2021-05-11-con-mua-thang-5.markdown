@@ -13,7 +13,7 @@ layout: post
 Tụi mình lập web này chắc đã hơn một tháng, sắp xếp công việc một dạo anh mới viết hướng dẫn để mình có thể tự viết bài (chuyện của một đứa Hi-tech và một đứa low-tech 😂)
 Rồi thỉnh thoảng lại quay sang hỏi:
 
-* Em viết gì cho nhungngaycuoituan chưa?
+> Em viết gì cho nhungngaycuoituan chưa?
 
 Mình đành thủ thỉ bảo chưa.
 Tự nhiên bảo viết một bài thì cứ kì kì và khó khó thế nào ấy, nên đợi một ngày có hứng viết - ví dụ như hôm nay.
