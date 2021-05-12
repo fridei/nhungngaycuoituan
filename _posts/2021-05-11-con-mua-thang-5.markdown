@@ -1,6 +1,12 @@
 ---
 title: Cơn mưa tháng 5
 date: 2021-05-11 18:05:00 Z
+Current: Post
+cover: https://i.vgy.me/KWsh2t.jpg
+navigation: true
+class: post-template
+subclass: post
+author: Fridei
 ---
 
 Tụi mình lập web này chắc đã hơn một tháng, sắp xếp công việc một dạo anh mới viết hướng dẫn để mình có thể tự viết bài (chuyện của một đứa Hi-tech và một đứa low-tech 😂)
