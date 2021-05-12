@@ -10,9 +10,9 @@ Rồi thỉnh thoảng lại quay sang hỏi:
 Mình đành thủ thỉ bảo chưa.
 Tự nhiên bảo viết một bài thì cứ kì kì và khó khó thế nào ấy, nên đợi một ngày có hứng viết - ví dụ như hôm nay.
 Thứ 3, ngày 11 tháng 5 năm 2021.
-Trời bất chợt có cơn dông nghiêng ngả, quay cuồng. Cơn mưa đến vào hơn 6h chiều, giờ tan tầm nhưng nay đường đã bớt tắc - (Covid 😢).
+Trời bất chợt có cơn dông nghiêng ngả, quay cuồng. 
 Mưa trắng trời, mưa tối tăm mặt mũi, những cơn gió kèm theo dữ dội. Tiếng mưa rơi lộp độp, rồi rào rào.
-Mưa hơn một tiếng mà báo chí lại đưa tin ngập hết con phố A rồi con phố B, đường phố ngớt mưa lại quay lại với tiếng còi xe ầm ĩ - những người tránh mưa cũng tranh thủ về nhà.
+Mưa hơn một tiếng rồi tạnh dần - những người tránh mưa cũng tranh thủ về nhà.
 
 Anh cũng đợi tạnh mưa rồi qua đón mình đi chơi.
 Lúc viết đến dòng này thì đồng hồ đã nhảy qua ngày mới, 12 tháng 5. Tụi mình bên nhau được ba tháng tròn trĩnh rùi, hura.
