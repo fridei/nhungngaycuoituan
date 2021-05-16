@@ -10,7 +10,7 @@ tags:
 - love
 - weekend
 Current: post
-Cover: https://i.vgy.me/hWVZ6l.jpg
+cover: https://i.vgy.me/hWVZ6l.jpg
 navigation: true
 class: post-template
 subclass: post
@@ -41,17 +41,17 @@ Tụi mình đã chụp được 1 tấm hình instax theo phong cách bà già 
 Nhưng dù sao thì khi bước ra khỏi quán cả hai cũng đã huề nhau rùi, mình vẫn là người dễ tha thứ cho ảnh màaa, tất nhiên là trong trường hợp chấp nhận được rùi phải không anh Chủ Nhật eiii.
 
 Mình đang lẩm nhẩm trong đầu những quán cafe mà tụi mình đã đi qua, xem nào:
-Cafe Yên
-Bản tin 102
-Xoan Cafe
-Hidden alley
-Lim
-Stay coffee
-Cafe 1981
-Cuối ngõ
-Nhà sàn
-Là Việt
-Audio cafe
+Cafe Yên, 
+Bản tin 102,
+Xoan Cafe,
+Hidden alley,
+Lim,
+Stay coffee,
+Cafe 1981,
+Cuối ngõ,
+Nhà sàn,
+Là Việt,
+Audio cafe,
 Chốn
 Và còn rất nhiều quán cafe khác mà mình đã dành dụm để thử trong suốt những ngày anh Chủ Nhật chưa tới nữa, để review dần ha.
 
