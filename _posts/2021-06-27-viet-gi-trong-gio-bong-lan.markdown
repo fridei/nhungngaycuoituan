@@ -6,7 +6,7 @@ cover: https://i.vgy.me/7ONGS9.jpg
 navigation: true
 class: post-template
 subclass: post
-author: Fridei
+author: fridei
 layout: post
 ---
 
