@@ -2,7 +2,7 @@
 title: Viết gì trong giờ bóng lăn
 date: 2021-06-27 17:41:00 Z
 current: Post
-cover: 
+cover: https://i.vgy.me/7ONGS9.jpg
 navigation: true
 class: post-template
 subclass: post
