@@ -7,6 +7,7 @@ navigation: true
 class: post-template
 subclass: post
 author: Fridei
+layout: post
 ---
 
 Chào các bạn,
