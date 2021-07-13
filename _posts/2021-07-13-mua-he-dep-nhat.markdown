@@ -7,7 +7,7 @@ Navigation: true
 Class: Post-template
 Subclass: Post
 Author: Fridei
-layout: page
+layout: post
 ---
 
 Đây là ảnh bầu trời Nghĩa Tân lúc nhập nhoạng nhá nhem
