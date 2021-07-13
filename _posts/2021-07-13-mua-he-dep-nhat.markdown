@@ -10,7 +10,7 @@ author: Fridei
 layout: post
 ---
 
-Đây là ảnh bầu trời Nghĩa Tân lúc nhập nhoạng nhá nhem
+`Đây là ảnh bầu trời Nghĩa Tân lúc nhập nhoạng nhá nhem
 khi tụi mình dừng ở quán dồi sụn ven đường, mua hai chiếc và chờ nướng.
 Chiều nay, sau rất nhiều sự quên thì mình cũng nhớ ra để mà nghe lại Mùa hè Italia, ôi chao, sao mà hay thế nhỉ?
 Nghe lại thấy bồi hồi y chang cách đây 9 năm, mùa Euro năm đó cũng lên Zing nghe tuyển tập các bài hát bóng đá chủ đề mỗi kì Euro/WC- Năm đó học lớp 13, cũng mùa thi vào đại học nên thành ra cái gì cũng nhớ đậm đà hơn (Đã lâu không nghe Zing rồi, các cậu dạo gần đây hay nghe ở đâu đó, chắc là youtube/spotify nhỉ?)
@@ -38,4 +38,4 @@ Chúc các cậu một ngày thứ tư tuyệt vời.
 
 Và đừng quên nghe Mùa hè Italia nhé.
 Love,
-Fridei.
+`Fridei.
