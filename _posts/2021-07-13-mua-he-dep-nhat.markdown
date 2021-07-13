@@ -1,12 +1,12 @@
 ---
 title: Mùa hè đẹp nhất
 date: 2021-07-13 17:56:00 Z
-Current: Post
-Cover: https://i.vgy.me/yKtIgU.jpg
-Navigation: true
-Class: Post-template
-Subclass: Post
-Author: Fridei
+current: post
+cover: https://i.vgy.me/yKtIgU.jpg
+navigation: true
+class: post-template
+subclass: post
+author: Fridei
 layout: post
 ---
 
